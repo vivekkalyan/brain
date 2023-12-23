@@ -3,5 +3,6 @@
   "url-into-selection",
   "dataview",
   "periodic-notes",
-  "calendar"
+  "calendar",
+  "obsidian-front-matter-title-plugin"
 ]
