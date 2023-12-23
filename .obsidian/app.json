@@ -1,5 +1,6 @@
 {
   "strictLineBreaks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "assets/images/"
+  "attachmentFolderPath": "assets/images/",
+  "alwaysUpdateLinks": true
 }
