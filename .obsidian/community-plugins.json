@@ -4,5 +4,6 @@
   "dataview",
   "periodic-notes",
   "calendar",
-  "obsidian-front-matter-title-plugin"
+  "obsidian-front-matter-title-plugin",
+  "templater-obsidian"
 ]
