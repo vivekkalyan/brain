@@ -1,0 +1,6 @@
+.obsidian/graph.json
+.obsidian/workspace.json
+
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
