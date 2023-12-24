@@ -10,8 +10,7 @@
     "paths": {
       "mode": "black",
       "values": [
-        "assets",
-        "templates"
+        "utils"
       ]
     },
     "delimiter": {

@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "templates",
+  "templates_folder": "utils/templates",
   "templates_pairs": [
     [
       "",
@@ -15,8 +15,20 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "/",
-      "template": "templates/notes.md"
+      "folder": "atlas/notes",
+      "template": "utils/templates/notes.md"
+    },
+    {
+      "folder": "atlas/maps",
+      "template": "utils/templates/notes.md"
+    },
+    {
+      "folder": "+ inbox",
+      "template": "utils/templates/notes.md"
+    },
+    {
+      "folder": "atlas/sources/books",
+      "template": "utils/templates/books.md"
     }
   ],
   "syntax_highlighting": true,
