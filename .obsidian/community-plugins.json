@@ -5,5 +5,7 @@
   "periodic-notes",
   "calendar",
   "obsidian-front-matter-title-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian"
 ]
