@@ -4,3 +4,5 @@
 .obsidian/plugins/*/manifest.json
 .obsidian/plugins/*/main.js
 .obsidian/plugins/*/styles.css
+
+**.md
