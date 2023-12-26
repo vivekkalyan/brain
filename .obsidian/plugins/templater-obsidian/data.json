@@ -29,6 +29,10 @@
     {
       "folder": "atlas/sources/books",
       "template": "utils/templates/books.md"
+    },
+    {
+      "folder": "efforts/handshakes",
+      "template": "utils/templates/notes.md"
     }
   ],
   "syntax_highlighting": true,
