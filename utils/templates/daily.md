@@ -5,7 +5,9 @@
 - [ ] 
 ## Events
 
+- 
 ## Log
+
 
 ## Today's Created Notes
 

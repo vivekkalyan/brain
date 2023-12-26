@@ -37,15 +37,15 @@ Look through calendar, notes, pictures and messages to remember memorable moment
 What am I grateful for this year?
 
 People
-	- 
+- 
 Experiences
-	- 
+- 
 Accomplishments
-	- 
+- 
 Things (material possessions that brought joy or value)
-	- 
+- 
 Game Changers
-	- 
+- 
 
 ### Rate
 
