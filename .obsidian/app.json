@@ -3,5 +3,7 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "assets/images/",
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "+ inbox"
 }
