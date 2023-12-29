@@ -33,6 +33,14 @@
     {
       "folder": "efforts/handshakes",
       "template": "utils/templates/notes.md"
+    },
+    {
+      "folder": "atlas/sources/articles",
+      "template": "utils/templates/notes.md"
+    },
+    {
+      "folder": "atlas/sources/videos",
+      "template": "utils/templates/notes.md"
     }
   ],
   "syntax_highlighting": true,
