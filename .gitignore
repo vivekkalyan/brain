@@ -6,3 +6,5 @@
 .obsidian/plugins/*/styles.css
 
 **.md
+
+utils/assets/**
