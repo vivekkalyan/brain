@@ -11,4 +11,5 @@ if (title === null) {
 ---
 tags:
 ---
+
 <% "# " + title %>

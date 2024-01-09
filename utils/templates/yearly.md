@@ -1,21 +1,21 @@
-# {{title}}
+## {{title}}
 
-## Reflect
+### Reflect
 
 Represent this year in three words
-- 
-- 
-- 
+-
+-
+-
 Describe how you felt about the past year in one word
-- 
+-
 
-### What happened this year?
+#### What Happened This Year?
 
-#### Big Picture
+##### Big Picture
 
 Summary of major themes or overarching narratives of the year.
 
-#### Timeline
+##### Timeline
 
 Look through calendar, notes, pictures and messages to remember memorable moments for each month.
 
@@ -32,22 +32,22 @@ Look through calendar, notes, pictures and messages to remember memorable moment
 - Nov
 - Dec
 
-### Gratitude
+#### Gratitude
 
 What am I grateful for this year?
 
 People
-- 
+-
 Experiences
-- 
+-
 Accomplishments
-- 
+-
 Things (material possessions that brought joy or value)
-- 
+-
 Game Changers
-- 
+-
 
-### Rate
+#### Rate
 
 Rate your year over 9 different categories in your life based on how aligned you are with each of the categories. Alignment is defined by how consistent our actions today are with where we want to be.
 
@@ -64,20 +64,21 @@ Rate your year over 9 different categories in your life based on how aligned you
 
 Identify areas that you want to improve
 
-## Plan
+### Plan
 
-### Bucket list
+#### Bucket List
 
 List out of goals you wish to achieve this year. What would I like to be celebrating in 12 months?
-- 
+-
 
-### Ideal Week
+#### Ideal Week
 
 Based on your above goals, imagine what an ideal week would look like by blocking out time in a calendar to work towards the goals.
 
-## Execute
+### Execute
 
 Dream
+
 - Why?
 - SMART Goal
 - Habit
