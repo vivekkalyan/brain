@@ -1,16 +1,16 @@
-## {{title}}
+# {{title}}
 
-### Goals
+## Goals
 
 - [ ]
 
-### Events
+## Events
 
 -
 
-### Log
+## Log
 
-### Today's Created Notes
+## Today's Created Notes
 
 ```dataview
 LIST WITHOUT ID "[[" + file.path + "|" + file.aliases[0] + "]]"
