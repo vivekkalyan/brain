@@ -9,5 +9,6 @@
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-linter",
-  "homepage"
+  "homepage",
+  "obsidian-vimrc-support"
 ]
