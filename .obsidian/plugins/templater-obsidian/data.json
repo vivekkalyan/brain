@@ -41,6 +41,10 @@
     {
       "folder": "atlas/sources/videos",
       "template": "utils/templates/notes.md"
+    },
+    {
+      "folder": "atlas/sources/quotes",
+      "template": "utils/templates/notes.md"
     }
   ],
   "syntax_highlighting": true,
