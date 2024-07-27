@@ -25,7 +25,7 @@
   "features": {
     "alias": {
       "enabled": true,
-      "strategy": "ensure",
+      "strategy": "replace",
       "validator": "fa",
       "templates": {
         "main": "",
