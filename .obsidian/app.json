@@ -1,10 +1,16 @@
 {
   "strictLineBreaks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "assets/images/",
+  "attachmentFolderPath": "utils/assets/images/",
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
   "newFileLocation": "folder",
   "newFileFolderPath": "+ inbox",
-  "vimMode": true
+  "vimMode": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
