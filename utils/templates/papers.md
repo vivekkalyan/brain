@@ -8,21 +8,25 @@ if (title.startsWith("Untitled")) {
 		await app.vault.delete(file);
 	}
 }
+const url = await tp.system.prompt("URL");
+
+app.fileManager.processFrontMatter(tp.file.find_tfile(tp.file.path(true)), (frontmatter) => {
+  frontmatter["url"] = url;
+});
 -%>
 <% await tp.file.rename(tp.file.creation_date("X")) -%>
 ---
-authors:
-paper:
+author: []
+url: <%* if (url) { %>"<%= url %>"<%* } %>
+topics: []
 video:
 tags:
+- paper
+- to-read
 ---
 
 <% "# " + title %>
 
-# What?
+# Notes
 
-# Why?
-
-# How?
-
-# And?
+# Thoughts
