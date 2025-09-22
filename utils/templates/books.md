@@ -12,7 +12,12 @@ if (title.startsWith("Untitled")) {
 <% await tp.file.rename(tp.file.creation_date("X")) -%>
 ---
 title: <% title %>
-author:
+author: []
+cover:
+genre: []
+pages:
+isbn:
+isbn13:
 rating:
 start_read:
 end_read:
