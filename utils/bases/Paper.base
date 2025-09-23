@@ -1,0 +1,42 @@
+formulas:
+  Untitled: file.asLink(file.properties.aliases)
+  Read: '!file.hasTag("to-read")'
+properties:
+  note.aliases:
+    displayName: Title
+  formula.Untitled:
+    displayName: Title
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - file.folder == "atlas/sources/papers"
+    order:
+      - formula.Untitled
+      - topics
+      - url
+    sort: []
+    columnSize:
+      formula.Untitled: 599
+      note.aliases: 623
+  - type: table
+    name: Grad RL Reading List
+    filters:
+      and:
+        - file.folder == "atlas/sources/papers"
+        - file.tags.contains("rl-reading-list")
+    order:
+      - formula.Untitled
+      - topics
+      - url
+      - published
+      - formula.Read
+    sort:
+      - property: formula.Untitled 2
+        direction: DESC
+      - property: published
+        direction: DESC
+    columnSize:
+      formula.Untitled: 599
+      note.published: 199
