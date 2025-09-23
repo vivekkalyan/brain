@@ -277,6 +277,9 @@
   "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "utils/templates"
+  ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
