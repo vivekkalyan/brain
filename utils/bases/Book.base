@@ -1,0 +1,21 @@
+formulas:
+  Title: file.asLink(file.properties.aliases)
+  Rating: "'⭐⭐⭐⭐⭐⭐⭐'.slice(0, note.rating).split('').map(icon('star'))"
+properties:
+  note.rating:
+    displayName: Rating
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder == "atlas/sources/books"
+    order:
+      - formula.Title
+      - formula.Rating
+    sort:
+      - property: end_read
+        direction: DESC
+    image: note.cover
+    imageFit: contain
+    imageAspectRatio: 1.5
