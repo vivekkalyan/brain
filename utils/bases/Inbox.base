@@ -1,0 +1,28 @@
+formulas:
+  Title: file.asLink(file.properties.aliases)
+properties:
+  formula.Title:
+    displayName: Title
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - file.folder == "+ inbox"
+    order:
+      - formula.Title
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
+  - type: table
+    name: Most Recent
+    filters:
+      and:
+        - file.folder == "+ inbox"
+    order:
+      - formula.Title
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
