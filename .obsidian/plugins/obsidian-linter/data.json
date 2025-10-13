@@ -276,7 +276,6 @@
   "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [],
   "foldersToIgnore": [
     "utils/templates"
   ],
